@@ -1,0 +1,8 @@
+export { default as TableBody } from "./body"
+export { default as TableHeader } from "./header"
+export { default as TableFooter } from "./footer"
+export { default as TableRow } from "./row"
+export { default as TableCell } from "./cell"
+export { default as Table } from "./table"
+export { default as TableHead } from "./head"
+export { default as TableCaption } from "./caption"
