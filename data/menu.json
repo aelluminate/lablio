@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "sideNav": {
+      "main": [
+        {
+          "label": "Home",
+          "icon": "Sparkles",
+          "url": "/",
+          "isRedirect": false
+        },
+        {
+          "label": "Collection",
+          "icon": "Shapes",
+          "url": "/collection",
+          "isRedirect": false
+        }
+      ]
+    }
+  }
+}
